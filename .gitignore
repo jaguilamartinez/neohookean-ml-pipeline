@@ -24,9 +24,9 @@ venv.bak/
 *.csv
 *.npy
 *.npz
-data/
+/data/
 datasets/
-models/
+/models/
 results/
 logs/
 checkpoints/
