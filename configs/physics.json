@@ -1,0 +1,9 @@
+{
+  "architecture": "physics",
+  "epochs": 150,
+  "batch_size": 64,
+  "learning_rate": 0.0005,
+  "test_size": 0.2,
+  "val_size": 0.2,
+  "scaler": "standard"
+}

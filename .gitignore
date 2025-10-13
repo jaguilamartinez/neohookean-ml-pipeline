@@ -1,0 +1,67 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+*.egg-info/
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ML/Data Science
+*.pkl
+*.h5
+*.hdf5
+*.csv
+*.npy
+*.npz
+data/
+datasets/
+models/
+results/
+logs/
+checkpoints/
+*.model
+*.weights
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.spyderproject
+.spyproject
+
+# Logs
+*.log
+
+# Generated plots and figures
+*.png
+*.pdf
+*.svg
+plots/
+figures/
+
+# Configuration files with sensitive data
+config.json
+.env
+secrets.yaml
