@@ -1,67 +1,23 @@
+# Archive
+archive/
+
 # Python
 __pycache__/
 *.py[cod]
-*$py.class
-*.so
-.Python
-env/
-venv/
-.venv/
-ENV/
-env.bak/
-venv.bak/
 *.egg-info/
-.pytest_cache/
+keras_env/
 
-# Jupyter Notebook
+# Jupyter
 .ipynb_checkpoints/
-*.ipynb_checkpoints
 
-# ML/Data Science
-*.pkl
+# Output
+output/
 *.h5
-*.hdf5
-*.csv
-*.npy
-*.npz
-/data/
-datasets/
-/models/
-results/
-logs/
-checkpoints/
-*.model
-*.weights
+*.pkl
 
 # OS
 .DS_Store
-.DS_Store?
-._*
-.Spotlight-V100
-.Trashes
-ehthumbs.db
-Thumbs.db
 
 # IDE
 .vscode/
 .idea/
-*.swp
-*.swo
-*~
-.spyderproject
-.spyproject
-
-# Logs
-*.log
-
-# Generated plots and figures
-*.png
-*.pdf
-*.svg
-plots/
-figures/
-
-# Configuration files with sensitive data
-config.json
-.env
-secrets.yaml
